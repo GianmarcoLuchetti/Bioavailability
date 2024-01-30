@@ -9,4 +9,12 @@ In the work, data were used from two publications [1], [2] which represent the b
 - Class 0 --> bioavailability <= 35%;
 - Class 1 --> bioavailability > 35% and <= 70%;
 - Class 2 --> bioavailability > 70%;
+
 The two datasets were eventually merged to increase the number of samples available for subsequent prediction steps, distinguishing between a training set and a test set.
+
+## Bioavailability_prediction
+In this notebook, some features of our dataset were first analyzed using data analysis techniques. Then an evaluation was made of the ability of some algorithms to predict bioavailability classes as a function of features.
+
+## Reference
+[1] Tingjun Hou, Junmei Wang, Wei Zhang, Xiaojie Xu, ADME evaluation in drug discovery. 6. If the oral bioavailability in human can be effectively predicted by simple molecular properties-based rules? Journal of Chemical Information and Modeling, 2007, 47, 460-463
+[2] Min Wei, Xudong Zhang, Xiaolin Pan, Bo Wang, Changge Ji, Yifei Qi, and John Z.H. Zhang. HobPre: accurate prediction of human oral bioavailability for small molecules

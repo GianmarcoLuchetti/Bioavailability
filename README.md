@@ -17,4 +17,5 @@ In this notebook, some features of our dataset were first analyzed using data an
 
 ## Reference
 [1] Tingjun Hou, Junmei Wang, Wei Zhang, Xiaojie Xu, ADME evaluation in drug discovery. 6. If the oral bioavailability in human can be effectively predicted by simple molecular properties-based rules? Journal of Chemical Information and Modeling, 2007, 47, 460-463
+
 [2] Min Wei, Xudong Zhang, Xiaolin Pan, Bo Wang, Changge Ji, Yifei Qi, and John Z.H. Zhang. HobPre: accurate prediction of human oral bioavailability for small molecules
